@@ -13,8 +13,6 @@
         </Grid.RowDefinitions>
         <TextBlock Text="SAMS CLUB" Foreground="Black" FontSize="25" HorizontalAlignment="Center" Grid.Row="0" VerticalAlignment="Center"/>
 
-            <Grid Grid.Row="1" Background="IndianRed">
-            
-            </Grid>
+            <Grid Grid.Row="1" Background="IndianRed"/>
     </Grid>
 </Window>
